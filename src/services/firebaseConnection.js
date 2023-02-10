@@ -1,14 +1,15 @@
 import firebase from 'firebase/app';
 import 'firebase/auth';
+import 'firebase/firestore'; 
 
-let firebaseConfig = {
-  apiKey: "AIzaSyDXLo_6qqEjraijp3tQOaICIU5AUbPLO-o",
-  authDomain: "sistema-291e4.firebaseapp.com",
-  projectId: "sistema-291e4",
-  storageBucket: "sistema-291e4.appspot.com",
-  messagingSenderId: "695102058017",
-  appId: "1:695102058017:web:ba429da5e81d06297e3d60",
-  measurementId: "G-KNZBKV3ZDL"
+const firebaseConfig = {
+  apiKey: "AIzaSyBETJnkBwvGEMWNupXKA9rISG8-NdkUPxw",
+  authDomain: "sistema-b03ef.firebaseapp.com",
+  projectId: "sistema-b03ef",
+  storageBucket: "sistema-b03ef.appspot.com",
+  messagingSenderId: "80755123525",
+  appId: "1:80755123525:web:5a24e392706c8e75c50a2c",
+  measurementId: "G-LWNSCHNG6Z"
 };
 
 if(!firebase.apps.length){

@@ -70,3 +70,16 @@
     display: none;
   }
 }
+
+
+@media screen and (max-width: 400px){
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+
+
+  .sidebar a svg{
+    display: none;
+  }
+}

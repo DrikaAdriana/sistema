@@ -126,7 +126,9 @@ function AuthProvider({ children }){
        signUp,
        signOut,
        singIn,
-       loadingAuth
+       loadingAuth,
+       setUser,
+       storageUser
     }}
     > 
       {children}

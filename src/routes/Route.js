@@ -20,7 +20,7 @@ export default function RouteWrapper({
   if(signed && !isPrivate){
     return <Redirect to="/dashboard" />
   }else if(!signed && isPrivate){
-    return <Redirect to="/" />
+    return <Redirect to="/sistema" />
   }
 
   return(

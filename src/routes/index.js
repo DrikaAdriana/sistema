@@ -14,7 +14,7 @@ import New from '../pages/New';
 export default function Routes(){
   return(
     <>
-      <Route exact path="/" component={SignIn} />
+      <Route exact path="/sistema" component={SignIn} />
       <Route exact path="/register" component={SignUp} />
 
       <Route exact path="/dashboard" component={Dashboard} isPrivate />

@@ -6,6 +6,8 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    env:
+      node_version: 'lts/*'
     steps:
     - name: Checkout code
       uses: actions/checkout@v2

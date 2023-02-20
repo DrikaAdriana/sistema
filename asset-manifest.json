@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sistema/static/css/main.c97b7484.chunk.css",
+    "main.js": "/sistema/static/js/main.19586eeb.chunk.js",
+    "main.js.map": "/sistema/static/js/main.19586eeb.chunk.js.map",
+    "runtime-main.js": "/sistema/static/js/runtime-main.0a7ea942.js",
+    "runtime-main.js.map": "/sistema/static/js/runtime-main.0a7ea942.js.map",
+    "static/css/2.9d848867.chunk.css": "/sistema/static/css/2.9d848867.chunk.css",
+    "static/js/2.1b293b5b.chunk.js": "/sistema/static/js/2.1b293b5b.chunk.js",
+    "static/js/2.1b293b5b.chunk.js.map": "/sistema/static/js/2.1b293b5b.chunk.js.map",
+    "index.html": "/sistema/index.html",
+    "static/css/2.9d848867.chunk.css.map": "/sistema/static/css/2.9d848867.chunk.css.map",
+    "static/css/main.c97b7484.chunk.css.map": "/sistema/static/css/main.c97b7484.chunk.css.map",
+    "static/js/2.1b293b5b.chunk.js.LICENSE.txt": "/sistema/static/js/2.1b293b5b.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/sistema/static/media/cover.6a293bc8.png",
+    "static/media/logo.1c649f13.png": "/sistema/static/media/logo.1c649f13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a7ea942.js",
+    "static/css/2.9d848867.chunk.css",
+    "static/js/2.1b293b5b.chunk.js",
+    "static/css/main.c97b7484.chunk.css",
+    "static/js/main.19586eeb.chunk.js"
+  ]
+}

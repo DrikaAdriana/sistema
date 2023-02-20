@@ -10,7 +10,6 @@ import { toast } from 'react-toastify';
 import { FiPlusCircle } from 'react-icons/fi'
 
 import './new.css'
-import { wait } from '@testing-library/user-event/dist/utils';
 
 export default function New() {
   const {id} = useParams()
@@ -69,7 +68,7 @@ export default function New() {
 
     loadCustmers();
 
-  }, [id])
+  }, [])
 
 
   async function loadId(lista){
